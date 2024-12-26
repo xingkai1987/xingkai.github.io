@@ -24,3 +24,4 @@ His research interests cover corporate finance, corporate governance as well as 
 
 负责研发证监会全国地方交易场所风险防控平台、中央网信办数字经济投融资联盟投融资信息服务平台、国家反诈大数据平台及国家反诈中心APP等，拥有金融科技类国家发明专利6项。多次获省部级批示及部委感谢函。
 
+我的个人简历可以点击下载: [Kai Xing's 简历](../assets/CV-邢凯-中文-详细-20241203.pdf).
