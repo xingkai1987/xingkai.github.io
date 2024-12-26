@@ -10,7 +10,6 @@ redirect_from:
 主要研究方向风险管理、金融科技、公司金融等。主持国家自科青年1项、2项国家242信息安全专项等5项省部级以上项目。在International Review of Financial Analysis、Finance Research Letters、《计量经济学报》等期刊上发表学术论文近二十余篇，包括ESI高被引论文一篇（1%）。在第十五、二十届金融系统工程与风险管理国际年会荣获“优秀论文”奖等。
 负责研发证监会全国地方交易场所风险防控平台、中央网信办数字经济投融资联盟投融资信息服务平台、国家反诈大数据平台及国家反诈中心APP等，拥有金融科技类国家发明专利6项。多次获省部级批示及部委感谢函。
 
-![image](https://github.com/user-attachments/assets/9ab6dac0-0caf-49c6-8d20-7bcff9ac3da1)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
