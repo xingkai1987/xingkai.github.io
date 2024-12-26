@@ -6,17 +6,17 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
+    url: /publications/ 
+    
   - title: "Research Programs"
-    url: /programs/    
+    url: /programs/
+
+  - title: "Conferences"
+    url: /portfolio/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Conferences"
-    url: /portfolio/
-        
+    url: /teaching/   
+      
   - title: "Books"
     url: /books/
     
