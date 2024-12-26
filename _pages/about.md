@@ -9,7 +9,7 @@ redirect_from:
 邢凯，金融学博士（英国诺丁汉大学），博士后（中国科学院数学与系统科学研究院），副教授，硕导，金融学系主任，江西省“赣鄱英才计划”金融创新人才项目人选、 南昌大学第二批“双带头人”教师党支部书记人选、中国系统工程学会金融系统工程专业委员会理事、亚太应用经济学会会员（APAEA）、江西产业金融发展研究院执行院长，江西省普惠金融专家咨询委员会专家等，中国（南昌）国际金融年会（AIFC）发起人，担任Emerging Market Finance and Trade期刊客座领域主编、Pacific-Basin Finance Journal等3个期刊客座主编及多个国内外期刊匿名审稿人。曾就职于中央网络安全和信息化委员会办公室（简称中央网信办）国家计算机网络与信息安全管理中心。
 主要研究方向风险管理、金融科技、公司金融等。主持国家自科青年1项、2项国家242信息安全专项等5项省部级以上项目。在International Review of Financial Analysis、Finance Research Letters、《计量经济学报》等期刊上发表学术论文近二十余篇，包括ESI高被引论文一篇（1%）。在第十五、二十届金融系统工程与风险管理国际年会荣获“优秀论文”奖等。
 负责研发证监会全国地方交易场所风险防控平台、中央网信办数字经济投融资联盟投融资信息服务平台、国家反诈大数据平台及国家反诈中心APP等，拥有金融科技类国家发明专利6项。多次获省部级批示及部委感谢函。
-
+ 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
