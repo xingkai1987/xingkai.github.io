@@ -8,8 +8,8 @@ main:
   - title: "学术论文"
     url: /my_publications/ 
     
-  - title: "Publications"
-    url: /publications/ 
+#  - title: "Publications"
+#   url: /publications/ 
     
   - title: "Research Programs"
     url: /programs/
