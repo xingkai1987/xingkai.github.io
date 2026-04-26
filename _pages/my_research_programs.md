@@ -25,12 +25,14 @@ author_profile: true
 
 Other participated projects include: National Natural Science Foundation of China General Program (2022, ongoing); CAS Key Deployment Project "Food Demand Forecasting Based on Macroeconomic Models" (2017, completed); Ministry of Science and Technology National Key R&D Program key project, "*** Platform R&D and Application Demonstration" / "*** Platform Application Demonstration" (2019, ongoing); Fujian Provincial Key Informatization Project, "Financial Ecology Module of the Fujian Financial Service Cloud Platform" (2019, completed), among others.
 
-## Industry and Commissioned Research Projects
+## Industry and Commissioned Research Projects  
+
 [5] Honggutan District Financial Office, Nanchang, Jiangxi Province, commissioned development project, "Report on Financial Support for Technological Innovation of Private Enterprises," Oct 2024 - Dec 2024, RMB 9,500, Project Leader.  
 [4] Honggutan District Financial Office, Nanchang, Jiangxi Province, commissioned development project, "Questionnaire Analysis on Financial Support for Technological Innovation of Private Enterprises in Honggutan District," Oct 2024 - Dec 2024, RMB 8,900, Project Leader.  
 [3] China Securities Regulatory Commission, "Ideas and Promotion Mechanisms for the Construction of Digital Infrastructure in Regional Equity Markets," Jul 2023 - Mar 2024, RMB 100,000, Core Member.  
 [2] Honggutan District Financial Office, Nanchang, Jiangxi Province, executive training course, "Technology Finance: Theory and Practice," Nov 2022 - Dec 2022, RMB 47,000, Project Leader.  
 [1] Galaxy Jinhui Securities Asset Management Co., Ltd. (wholly owned by China Galaxy Securities Co., Ltd.), "Analysis of Default Characteristics and Outlook for China's Credit Bonds," Mar 2018 - Mar 2019.  
 
-## Talent Project
+## Talent Project  
+
 Jiangxi Provincial "Ganpo Talent Program" Innovative High-End Talent Project (Finance category, gpyc20240190): Research and Application Demonstration of Key Technologies for Intelligent Anti-Fraud Education and Publicity with Real-Time Early Warning, Dec 2024 - Dec 2026, RMB 150,000, ongoing, Principal Investigator.  
