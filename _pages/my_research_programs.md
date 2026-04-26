@@ -1,6 +1,6 @@
 
 ---
-title: "Research programs"
+title: "Research Programs"
 layout: single
 permalink: /my_research_programs/
 author_profile: true
