@@ -1,14 +1,4 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: #'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 
 title: "Journal Publications"
 citation: '[1] Xing, K., Xu, J., Li, X., & Zhang, H. (2025). Military-political CEOs and corporate environmental investment. Systems Engineering - Theory & Practice. Accepted. [First author; FMS T1; recognized by the National Natural Science Foundation of China as an A-level important academic journal in management science; CSSCI; supervised 2023 graduate student; Nanchang University Category II].'
@@ -34,7 +24,7 @@ citation: '[20] Xing, K., Luo, D., & Liu, L. (2023). Macroeconomic conditions, c
 citation: '[21] Li, C., Lou, C., Luo, D., & Xing, K. (2021). Chinese corporate distress prediction using LASSO: The role of earnings management. International Review of Financial Analysis, 76. [Corresponding author; SSCI Q1; CAS Zone 2; ABS 3; supervised 2015 undergraduate student at Beijing Institute of Technology; Nanchang University Category III].'
 citation: '[22] Xing, K., Dai, Y., & Yang, C. (2021). Risk analysis and countermeasures for local trading venues under normalized strong regulation. Enterprise Economy, 40, 96-103. [First author; CSSCI Expanded].'
 citation: '[23] Xing, K., & Yang, X. (2020). Predicting default rates by capturing critical transitions in the macroeconomic system. Finance Research Letters, 32, 101107. [First author; SSCI Q1; CAS Zone 3; ABS 2].'
-citation: '[24] Xing, K., & Yang, X. (2019). How to detect crashes before they burst: Evidence from Chinese stock market. Physica A: Statistical Mechanics and its Applications, 528, 121392. [First author; SCI Q2; CAS Zone 2].'
+citation: '[24] Xing, K., & Yang, X. (2019). How to detect crashes before they burst: Evidence from Chinese stock market. Physica A: Statistical Mechanics and its Applications, 528, 121392. [First author; SCI Q2; CAS Zone 2].'**
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
