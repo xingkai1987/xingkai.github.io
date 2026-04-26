@@ -1,4 +1,3 @@
-
 ---
 title: "Research Programs"
 layout: single
