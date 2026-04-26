@@ -21,9 +21,7 @@ author_profile: true
 
 [8] Chang, K., Luo, D., Xing, K., & Mi, B. (2025). The effectiveness of the green bond instrument on stimulating firms' green innovation performance: A comparative study based on the Chinese market. Pacific-Basin Finance Journal, 91, 102706. [Corresponding author; SSCI Q1; CAS Zone 2; ABS 2; Nanchang University Category III].  
 
-[9] Xing, K., Lin, T., Zhou, Z., & Li, S. (2025). Litigation risk and financial distress: Perspectives from capital allocation channels and reputation insurance mechanisms. Systems Engineering - Theory & Practice, 45(11), 1-21.   
-
-https://link.cnki.net/urlid/11.2267.N.20250303.1537.010. [First author; FMS T1; recognized by NSFC as an A-level important academic journal in management science; CSSCI; supervised 2021 undergraduate student; Nanchang University Category II].  
+[9] Xing, K., Lin, T., Zhou, Z., & Li, S. (2025). Litigation risk and financial distress: Perspectives from capital allocation channels and reputation insurance mechanisms. Systems Engineering - Theory & Practice, 45(11), 1-21. [First author; FMS T1; recognized by NSFC as an A-level important academic journal in management science; CSSCI; supervised 2021 undergraduate student; Nanchang University Category II].  
 
 [10] Xing, K., Yang, F., Liu, P., & Wu, J. (2025). Environmental violations and financial distress risk: Evidence from Chinese listed heavily polluting companies. Pacific-Basin Finance Journal, 89, 102583. [First author; SSCI Q1; CAS Zone 2; ABS 2; supervised 2021 undergraduate student; Nanchang University Category III].  
 
