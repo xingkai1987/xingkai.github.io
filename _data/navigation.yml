@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "学术论文"
+  - title: "Publications"
     url: /my_publications/ 
     
 #  - title: "Publications"
