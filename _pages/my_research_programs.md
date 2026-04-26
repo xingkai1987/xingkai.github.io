@@ -34,6 +34,3 @@ Other participated projects include: National Natural Science Foundation of Chin
 
 ## C. Talent Project
 Jiangxi Provincial "Ganpo Talent Program" Innovative High-End Talent Project (Finance category, gpyc20240190): Research and Application Demonstration of Key Technologies for Intelligent Anti-Fraud Education and Publicity with Real-Time Early Warning, Dec 2024 - Dec 2026, RMB 150,000, ongoing, Principal Investigator.  
-
-<img width="432" height="201" alt="image" src="https://github.com/user-attachments/assets/095994ad-01ff-4346-a3bb-5d758231f7f3" />
-
