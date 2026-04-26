@@ -14,17 +14,17 @@ main:
   - title: "Research Programs"
     url: /programs/
 
-  - title: "Conferences"
-    url: /portfolio/    
+#   - title: "Conferences"
+#   url: /portfolio/    
 
-  - title: "Teaching"
-    url: /teaching/   
+#  - title: "Teaching"
+#    url: /teaching/   
       
-  - title: "Books"
-    url: /books/
+#  - title: "Books"
+#    url: /books/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
