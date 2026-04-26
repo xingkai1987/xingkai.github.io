@@ -6,19 +6,6 @@ permalink: /my_research_programs/
 author_profile: true
 ---
 
----
-title: "学术论文发表"
-layout: single
-permalink: /my_publications/
-author_profile: true
----
-
-## 期刊论文
-
-1. Xing, K., Xu, J., Li, X., & Zhang, H. (2025). Military-political CEOs and corporate environmental involvement. *某期刊*。
-2. Xing, K., Lei, Z., Xiao, Y., & Zhang, H. (2026). Academic independent directors and corporate misconduct. *某期刊*。
-
-
 ## Competitive Government and Public Research Grants
 
 [8] Jiangxi Provincial Management Science Project (20252BAA100012): Research on Financial Risk Management and Control Mechanisms for Technology-Based SMEs Based on Deep Learning Models, Aug 2025 - Sep 2026, RMB 100,000, ongoing, Principal Investigator.  
