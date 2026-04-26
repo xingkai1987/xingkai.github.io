@@ -52,3 +52,21 @@ author_profile: true
 [23] Xing, K., & Yang, X. (2020). Predicting default rates by capturing critical transitions in the macroeconomic system. Finance Research Letters, 32, 101107. [First author; SSCI Q1; CAS Zone 3; ABS 2].  
 
 [24] Xing, K., & Yang, X. (2019). How to detect crashes before they burst: Evidence from Chinese stock market. Physica A: Statistical Mechanics and its Applications, 528, 121392. [First author; SCI Q2; CAS Zone 2].
+
+## Revise and Resubmit (3 papers)
+[1] Xing, K., Lei, Z., Zhang, H., & Xiao, F. (2024). DeepCare: Do artificial intelligence firms safeguard employee rights? British Accounting Review. Revise and resubmit. [First author; SSCI Q1; CAS Zone 3; supervised 2021 undergraduate student; ABS 3].  
+
+[2] Chu, X., Luo, D., Xing, K., & He, K. (2024). Renewable energy and firm risk exposure: Evidence from the electric utility industry based on machine learning. European Journal of Finance. Revise and resubmit. [Corresponding author; SSCI Q2; CAS Zone 3; ABS 3].  
+
+[3] Xing, K., Zhu, C., Li, X., Zhang, H., & Xiao, F. (2025). Academic executives and new quality productive forces. China Finance Review International. Revise and resubmit. [First author; ESCI; CAS Zone 1 Top; ABS 2; supervised 2022 undergraduate student and 2024 finance graduate student].  
+
+## Returned for Revision (5 papers)
+[1] Xing, K., Qiu, P., & Zhang, H. (2025). The military-political CEOs and total factor productivity: Evidence from listed firms in China. Journal of Accounting Literature. Returned for revision. [First author; supervised 2021 undergraduate student; ABS 3].  
+
+[2] Xing, K., Li, X., Liu, P., Zhang, H., & Xiao, Y. (2025). Are academic executives greener? Evidence from China. Managerial and Decision Economics. Returned for revision. [First author; SSCI Q1; CAS Zone 2; ABS 2; supervised 2019 undergraduate student].  
+
+[3] Xing, K., Yin, E., & Xiao, F. (2025). Corporate misconduct and financial distress in China: A co-governance perspective. Emerging Markets Finance and Trade. Returned for revision. [First author; SSCI Q1; CAS Zone 3; supervised 2023 graduate student; ABS 2].  
+
+[4] Xing, K., Liu, Y., Xu, J., & Zhang, H. (2025). Management equity incentives and the corporate internal pay gap. Review of Quantitative Finance and Accounting. Returned for revision. [First author; CAS Zone 3; supervised 2024 undergraduate and graduate students; ABS 3].  
+
+[5] Xing, K., Xiong, K., Xiao, F., & Zhang, H. (2025). DeepCare: Can artificial intelligence improve labor investment efficiency? Journal of International Money and Finance. [First author; supervised 2025 graduate student; ABS 3].  
