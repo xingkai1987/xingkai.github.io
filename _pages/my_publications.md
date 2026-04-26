@@ -1,10 +1,10 @@
 ---
-title: "学术论文发表"
+title: "Journal Publications"
 layout: single
 permalink: /my_publications/
 author_profile: true
 ---
-## 期刊论文
+## Published papers
 [1] Xing, K., Xu, J., Li, X., & Zhang, H. (2025). Military-political CEOs and corporate environmental investment. Systems Engineering - Theory & Practice. Accepted. [First author; FMS T1; recognized by the National Natural Science Foundation of China as an A-level important academic journal in management science; CSSCI; supervised 2023 graduate student; Nanchang University Category II].  
 
 [2] Xing, K., Lei, Z., Xiao, Y., & Zhang, H. (2026). Academic independent directors and corporate misconduct: Evidence from China. Research in International Business and Finance, 103350. https://doi.org/10.1016/j.ribaf.2026.103350. [First author; SSCI Q1; CAS Zone 1 Top; ABS 2; supervised 2021 undergraduate students and 2023 graduate student; Nanchang University Category II].  
